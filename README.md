@@ -1,5 +1,5 @@
 <img src="https://github.com/T0TEMA/T0TEMA/blob/main/Control%20is%20an%20illusion.jpg" width="197" align="left" alt="Mr.Robot ''Control is an illusion,,">
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="55" align="right" alt="Markdown logo"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50" align="right" alt="Markdown logo"/>
 
 # Totema
 
