@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://github.com/T0TEMA/T0TEMA/blob/main/Control%20is%20an%20illusion.jpg" width="197" align="left" alt="Mr.Robot ''Control is an illusion,,">
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="57" align="right" alt="Markdown logo"/>
 
-<!--
-**T0TEMA/T0TEMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Totema
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=T0TEMA&color=grey&style=flat" width="100" align="right" alt="Page visitors counter">
+<i>"Hello friend"</i><br>
+I'm a random student in computer science, uploading some of my ideas on github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Workspace :
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="90" align="right" alt="Github logo"/>
+
+| Languages  |  Text editors  |  OS  | Tools |
+| :--------: | :------------: | :--: | :---: |
+|<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" width="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/langfr-220px-PyCharm_Icon.svg.png" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
