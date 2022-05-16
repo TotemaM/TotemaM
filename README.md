@@ -5,7 +5,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=T0TEMA&color=grey&style=flat" width="100" align="right" alt="Page visitors counter">
 <i>"Hello friend"</i><br>
-I'm a random student in computer science, uploading some of my ideas on github.
 
 #### Workspace :
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="90" align="right" alt="Github logo"/>
