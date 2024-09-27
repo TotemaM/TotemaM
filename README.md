@@ -1,12 +1,6 @@
 # Totema
-<img src="https://github.com/T0TEMA/T0TEMA/blob/main/Control%20is%20an%20illusion.jpg" height=334 align="left">
+| Programming languages | Text editing languages | Text editors | OS |
+|:---------------------:|:----------------------:|:------------:|:--:|
+|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height=50/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" height=50 />|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height=50/>|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height=50/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VIM-Dark.svg" height=50 />|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height=50/>|
 
-|   |   |   
-|:-:|:-:|
-|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height=50/>|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height=50/>|
-
-|   |   |   |
-|:-:|:-:|:-:|
-|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height=50/>|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height=50/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height=50/>|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" height=50/>|
-
-<img src="https://leetcard.jacoblin.cool/TotemaM" width="340"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TotemaM&layout=compact&theme=dark) <img src="https://leetcard.jacoblin.cool/TotemaM" width="290"/>
