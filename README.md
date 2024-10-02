@@ -5,9 +5,6 @@
         <b> Programming Languages </b>
       </td>
       <td align="center">
-        <b> Web development </b>
-      </td>
-      <td align="center">
         <b> Shells </b>
       </td>
     </tr>
@@ -17,11 +14,6 @@
         <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height=50 /></a>
         <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height=50 /></a>
         <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height=50 /></a>
-      </td>
-      <td>
-        <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" height=50 /></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" height=50 /></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" height=50 /></a>
       </td>
       <td>
         <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" height=50 /></a>
