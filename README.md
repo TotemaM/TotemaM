@@ -7,7 +7,7 @@
   <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" height=50 /></a>
   <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height=50 /></a>
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height=50 /></a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height=50 /></a>
+  <a href="https://en.wikipedia.org/wiki/Ubuntu" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" height=50 /></a>
 </div>
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotemaM&layout=compact&theme=dark" height="112"/></a>
