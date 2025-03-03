@@ -6,7 +6,7 @@
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" height=50 /></a>
   <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" height=50 /></a>
   <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height=50 /></a>
-  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height=50 /></a>
+  <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" height=50 /></a>
   <a href="https://en.wikipedia.org/wiki/Ubuntu" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" height=50 /></a>
 </div>
 <div align="center">
