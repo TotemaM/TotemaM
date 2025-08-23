@@ -11,6 +11,9 @@
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=50 /></a>
 </div>
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotemaM&layout=compact&theme=dark" width=250 /></a>
-  <a href="https://fr.wikipedia.org/wiki/LeetCode" target="_blank"><img src="https://leetcard.jacoblin.cool/TotemaM" width=345 /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotemaM&layout=compact&theme=dark" width=240 /></a>
+  <a href="https://fr.wikipedia.org/wiki/LeetCode" target="_blank"><img src="https://leetcard.jacoblin.cool/TotemaM" width=335 /></a>
+</div>
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/Codewars"><img src="https://www.codewars.com/users/Totema/badges/large" width=350 /></a>
 </div>
