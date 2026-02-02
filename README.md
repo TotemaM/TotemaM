@@ -9,6 +9,7 @@
   <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width=50 /></a>
   <a href="https://en.wikipedia.org/wiki/List_of_Linux_distributions" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width=50 /></a>
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=50 /></a>
+  <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width=50 /></a>
 </div>
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotemaM&layout=compact&theme=dark" width=240 /></a>
