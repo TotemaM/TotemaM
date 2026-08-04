@@ -12,7 +12,6 @@
   <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width=50 /></a>
 </div>
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotemaM&layout=compact&theme=dark" width=240 /></a>
   <a href="https://fr.wikipedia.org/wiki/LeetCode" target="_blank"><img src="https://leetcard.jacoblin.cool/TotemaM" width=335 /></a>
 </div>
 <div align="center">
